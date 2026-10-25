@@ -224,6 +224,8 @@ __marimo__/
 .streamlit/secrets.toml
 >>>>>>> 6c3c68ff5b60b74d5e2488cec4a355134a12773a
 
-/reports
+
 
 predictive_maintenance_random_forest.pkl
+Predictive_Maintenance_Technical_Model_MLOps_Report.docx
+Predictive_Maintenance_Executive_Case_Study_Rebuilt.docx
