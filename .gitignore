@@ -223,3 +223,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 >>>>>>> 6c3c68ff5b60b74d5e2488cec4a355134a12773a
+
+/reports
+
+predictive_maintenance_random_forest.pkl
